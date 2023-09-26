@@ -1,0 +1,1 @@
+npm i reduxjs/toolkit axios dayjs  react-circular-progressbar react-icons react-infinite-scroll-component react-lazy-load-image-component react-player react-redux react-router-dom react-select sass
